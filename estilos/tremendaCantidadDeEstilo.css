@@ -68,7 +68,7 @@ body {
   margin-top: 1.5rem;
 }
 .table {
-  margin-left: 10%;
+  margin: 0 auto;
   justify-content: center;
   align-items: center;
   width: 80%;
@@ -161,4 +161,8 @@ footer input {
 .post-body img:hover {
   transform: scale(1.05);
   box-shadow: 0 8px 16px rgba(255, 128, 0, 0.3);
+}
+.table1 {
+  margin: 0 auto;
+  text-align: center;
 }
