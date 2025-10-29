@@ -111,13 +111,11 @@ th {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
   transition: transform 0.3s ease;
 }
-.post-body {
+.post-body p {
+  margin-bottom: 1rem;
   text-align: justify;
   line-height: 1.6;
   font-size: 1.1rem;
-}
-.post-body p {
-  margin-bottom: 1rem;
 }
 .post-body a {
   color: blue;
