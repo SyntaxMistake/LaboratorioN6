@@ -1,6 +1,7 @@
 * {
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
+  margin: 0 auto;
 }
 body {
   background-color: black;
@@ -9,7 +10,6 @@ body {
 #contenedor {
   background-color: antiquewhite;
   padding: 2rem;
-  margin: auto;
 }
 .topBox {
   padding: 5px;
